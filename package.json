@@ -1,15 +1,15 @@
 
 
 {
-  "name": "Sheha-Md",
+  "name": "Yheha-Md",
   "version": "0.0.6",
   "description": "Multi device whatsapp bot.",
   "main": "index.js",
   "type": "commonjs",
   "license": "GPL-3.0",
 "scripts": {
-   "start": "pm2 start index.js --deep-monitoring --attach --name Sheha",
-   "stop": "pm2 stop Sheha"
+   "start": "pm2 start index.js --deep-monitoring --attach --name Yheha",
+   "stop": "pm2 stop Yheha"
    },
 "repository": {
 "type": "git",
@@ -26,7 +26,7 @@
 "@adiwajshing/baileys": "^4.4.0",
 "pino": "^7.0.5",
   "pastebin-js": "latest",
-"node-html-parser": "^6.1.4",
+"node-html-parser": "^6.1.4",ct
   "raganork-bot": "^3.0.1",
 "pastebin-js": "^1.0.6",
 "acrcloud": "^1.4.0",
